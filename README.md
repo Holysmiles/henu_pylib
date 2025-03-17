@@ -1,2 +1,1 @@
-python
-课程的实验代码
+python课程的实验代码，要合并到main
